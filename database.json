@@ -1,0 +1,146 @@
+{
+    "topics": [
+        {
+            "id": 1,
+            "name": "HTML"
+        },
+        {
+            "id": 2,
+            "name": "CSS"
+        },
+        {
+            "id": 3,
+            "name": "JavaScript"
+        },
+        {
+            "id": 4,
+            "name": "React"
+        },
+        {
+            "id": 5,
+            "name": "Python"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Olivia Brooks",
+            "email": "obooks@gmail.com",
+            "cohort": 74
+        },
+        {
+            "id": 2,
+            "name": "Ethan Parker",
+            "email": "eparker@gmail.com",
+            "cohort": 72
+        },
+        {
+            "id": 3,
+            "name": "Ava Mitchell",
+            "email": "amitchell@gmail.com",
+            "cohort": 73
+        },
+        {
+            "id": 4,
+            "name": "Noah Harris",
+            "email": "nharris@gmail.com",
+            "cohort": 75
+        },
+        {
+            "id": 5,
+            "name": "Sophia Turner",
+            "email": "sturner@gmail.com",
+            "cohort": 70
+        },
+        {
+            "id": 6,
+            "name": "Liam Scott",
+            "email": "lscott@gmail.com",
+            "cohort": 71
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Designing Your Website",
+            "body": "CSS (Cascading Style Sheets) is a stylesheet language used to control the presentation and layout of HTML documents. It allows developers to specify how elements such as text, images, and other content are displayed on a webpage, including aspects like colors, fonts, spacing, and positioning. By separating content (HTML) from design (CSS), it promotes cleaner code, easier maintenance, and improved website performance. CSS can be applied inline, embedded within an HTML document, or linked externally, providing flexibility in web design.",
+            "date": "11/16/2024",
+            "userId": 6,
+            "topicId": 2
+        },
+        {
+            "id": 2,
+            "title": "Learning how to React",
+            "body": "React is a popular JavaScript library for building user interfaces, primarily for single-page applications. Developed by Facebook, React allows developers to create reusable UI components that manage their own state, making it easier to build dynamic and interactive web applications. It uses a virtual DOM (Document Object Model) to optimize rendering performance, ensuring a smooth user experience by only updating the parts of the page that have changed. React supports a component-based architecture and can be integrated with other libraries and frameworks, making it a flexible and efficient choice for modern web development.",
+            "date": "9/2/2024",
+            "userId": 5,
+            "topicId": 4
+        },
+        {
+            "id": 3,
+            "title": "Wrapping your head around Python",
+            "body": "Python is a high-level, interpreted programming language known for its simplicity and readability, making it an excellent choice for beginners and experienced developers alike. It supports multiple programming paradigms, including object-oriented, imperative, and functional programming. Python is widely used in fields such as web development, data analysis, artificial intelligence, machine learning, and automation. Its extensive standard library and large ecosystem of third-party packages allow developers to easily tackle a wide range of tasks. With a focus on clarity and ease of use, Python has become one of the most popular and versatile programming languages in the world.",
+            "date": "1/9/2025",
+            "userId": 4,
+            "topicId": 5
+        },
+        {
+            "id": 4,
+            "title": "Brewing up some JavaScript",
+            "body": "JavaScript is a versatile, high-level programming language primarily used for building interactive and dynamic features on websites. It runs in the browser, allowing developers to create responsive user interfaces, handle events, manipulate HTML and CSS, and interact with external data through APIs. As a core technology alongside HTML and CSS, JavaScript is essential for modern web development. It supports object-oriented, imperative, and functional programming styles, and with the rise of Node.js, it can also be used for server-side programming, making it a powerful tool for full-stack development.",
+            "date": "1/2/2025",
+            "userId": 2,
+            "topicId": 3
+        },
+        {
+            "id": 5,
+            "title": "HTML Basics",
+            "body": "HTML (HyperText Markup Language) is the standard language used to create and structure content on the web. It defines the elements of a webpage, such as headings, paragraphs, images, links, and forms, through a series of tags and attributes. HTML provides the basic framework for organizing content, making it accessible and navigable within a browser. While it focuses primarily on the structure and content, it works alongside CSS for styling and JavaScript for interactivity, forming the foundation of modern web development. HTML is essential for building any webpage or web application.",
+            "date": "12/22/2024",
+            "userId": 4,
+            "topicId": 1
+        }
+    ],
+    "userLikedPosts": [
+        {
+            "id": 1,
+            "userId": 5,
+            "postId": 5
+        },
+        {
+            "id": 2,
+            "userId": 1,
+            "postId": 4
+        },
+        {
+            "id": 3,
+            "userId": 4,
+            "postId": 1
+        },
+        {
+            "id": 4,
+            "userId": 3,
+            "postId": 2
+        },
+        {
+            "id": 5,
+            "userId": 3,
+            "postId": 4
+        },
+        {
+            "id": 6,
+            "userId": 1,
+            "postId": 5
+        },
+        {
+            "id": 7,
+            "userId": 6,
+            "postId": 2
+        },
+        {
+            "id": 8,
+            "userId": 1,
+            "postId": 5
+        }
+    ]
+}
