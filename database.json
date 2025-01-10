@@ -99,6 +99,14 @@
             "date": "12/22/2024",
             "userId": 4,
             "topicId": 1
+        },
+        {
+            "id": 6,
+            "title": "Responding to React",
+            "body": "At its core, React introduces a virtual DOM, which acts as an in-memory representation of the real DOM, enabling efficient updates and rendering. When the state or props of a component change, React performs a 'diffing' algorithm to compare the current virtual DOM with the previous one and only applies the minimal changes needed to the actual DOM. This reduces unnecessary re-renders and improves performance, especially in complex applications. React’s component-based architecture also promotes better code organization, modularity, and maintainability, with hooks like 'useState', 'useEffect', and 'useContext' providing powerful tools for managing state, side effects, and context across the app.",
+            "date": "1/10/2025",
+            "userId": 1,
+            "topicId": 4
         }
     ],
     "userLikedPosts": [
