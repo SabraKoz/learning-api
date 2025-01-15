@@ -107,6 +107,22 @@
       "date": "1/10/2025",
       "userId": 1,
       "topicId": 4
+    },
+    {
+      "title": "JavaScript Diving Deeper",
+      "body": "JavaScript is a high-level, interpreted programming language primarily used for building interactive and dynamic web applications. As a core technology of the web, alongside HTML and CSS, JavaScript enables client-side scripting, meaning it allows developers to create responsive user interfaces that can update in real-time without refreshing the page. Beyond its role in the browser, JavaScript also runs on the server-side via environments like Node.js, enabling full-stack development. It supports a variety of programming paradigms, including imperative, object-oriented, and functional programming. JavaScript's event-driven, non-blocking model, particularly with asynchronous programming using Promises and async/await, makes it well-suited for handling I/O-bound tasks, such as network requests. The language is constantly evolving, with ECMAScript specifications introducing new features, such as modern syntax (e.g., arrow functions, destructuring, and modules) and powerful APIs (e.g., Fetch, WebSockets, and Web Workers). Through frameworks and libraries like React, Angular, and Vue.js, JavaScript has become essential for building complex, scalable applications, while its vast ecosystem of tools and packages continues to drive innovation in the development world.",
+      "date": "2025-01-14T22:29:03.938Z",
+      "topicId": 3,
+      "userId": 4,
+      "id": 7
+    },
+    {
+      "title": "HTML 101",
+      "body": "HTML (Hypertext Markup Language) is the foundational language used to structure and present content on the web. It defines the skeleton of a webpage by marking up text, images, videos, and other elements with various tags, creating a document that browsers can interpret and render. HTML is not a programming language but a markup language, meaning its primary function is to organize and format content rather than dictate behavior. Over time, HTML has evolved significantly, with HTML5 introducing semantic elements like 'article', 'section', and 'header' to improve accessibility, SEO, and code readability. HTML5 also brought in native support for audio, video, and richer multimedia content without relying on external plugins, as well as APIs for geolocation, local storage, and offline web apps. Through the use of attributes, such as classes, ids, and data attributes, HTML allows developers to connect structure with CSS for styling and JavaScript for interactivity. As the backbone of web development, HTML plays a crucial role in ensuring that content is accessible and properly displayed across devices and platforms, supporting the creation of responsive and dynamic web applications.",
+      "date": "2025-01-14T22:36:58.721Z",
+      "topicId": 1,
+      "userId": 3,
+      "id": 8
     }
   ],
   "userLikedPosts": [
@@ -194,6 +210,41 @@
       "userId": 4,
       "postId": 2,
       "id": 17
+    },
+    {
+      "userId": 3,
+      "postId": 7,
+      "id": 18
+    },
+    {
+      "userId": 3,
+      "postId": 3,
+      "id": 19
+    },
+    {
+      "userId": 3,
+      "postId": 1,
+      "id": 20
+    },
+    {
+      "userId": 3,
+      "postId": 2,
+      "id": 21
+    },
+    {
+      "userId": 3,
+      "postId": 4,
+      "id": 22
+    },
+    {
+      "userId": 4,
+      "postId": 8,
+      "id": 23
+    },
+    {
+      "userId": 4,
+      "postId": 2,
+      "id": 24
     }
   ]
 }
