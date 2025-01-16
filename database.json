@@ -162,89 +162,89 @@
       "postId": 2
     },
     {
-      "id": 8,
-      "userId": 1,
-      "postId": 5
+      "userId": 6,
+      "postId": 3,
+      "id": 8
     },
     {
       "userId": 6,
-      "postId": 3,
+      "postId": 6,
       "id": 9
     },
     {
       "userId": 6,
-      "postId": 6,
+      "postId": 4,
       "id": 10
     },
     {
       "userId": 6,
-      "postId": 6,
+      "postId": 5,
       "id": 11
     },
     {
-      "userId": 6,
-      "postId": 4,
+      "userId": 4,
+      "postId": 6,
       "id": 12
     },
     {
-      "userId": 6,
-      "postId": 5,
+      "userId": 4,
+      "postId": 2,
       "id": 13
-    },
-    {
-      "userId": 6,
-      "postId": 2,
-      "id": 14
-    },
-    {
-      "userId": 4,
-      "postId": 1,
-      "id": 15
-    },
-    {
-      "userId": 4,
-      "postId": 6,
-      "id": 16
-    },
-    {
-      "userId": 4,
-      "postId": 2,
-      "id": 17
     },
     {
       "userId": 3,
       "postId": 7,
-      "id": 18
+      "id": 14
     },
     {
       "userId": 3,
       "postId": 3,
-      "id": 19
+      "id": 15
     },
     {
       "userId": 3,
       "postId": 1,
-      "id": 20
-    },
-    {
-      "userId": 3,
-      "postId": 2,
-      "id": 21
-    },
-    {
-      "userId": 3,
-      "postId": 4,
-      "id": 22
+      "id": 16
     },
     {
       "userId": 4,
       "postId": 8,
+      "id": 17
+    },
+    {
+      "userId": 5,
+      "postId": 7,
+      "id": 18
+    },
+    {
+      "userId": 5,
+      "postId": 8,
+      "id": 19
+    },
+    {
+      "userId": 2,
+      "postId": 3,
+      "id": 22
+    },
+    {
+      "userId": 2,
+      "postId": 6,
       "id": 23
     },
     {
-      "userId": 4,
+      "userId": 2,
       "postId": 2,
-      "id": 24
+      "id": 26
+    },
+    {
+      "userId": 2,
+      "postId": 8,
+      "id": 27
+    },
+    {
+      "userId": 2,
+      "postId": 7,
+      "id": 28
     }
   ]
 }
