@@ -26,7 +26,7 @@
       "id": 1,
       "name": "Olivia Brooks",
       "email": "obooks@gmail.com",
-      "cohort": 74
+      "cohort": 76
     },
     {
       "id": 2,
@@ -127,11 +127,6 @@
   ],
   "userLikedPosts": [
     {
-      "id": 1,
-      "userId": 5,
-      "postId": 5
-    },
-    {
       "id": 2,
       "userId": 1,
       "postId": 4
@@ -212,11 +207,6 @@
       "id": 18
     },
     {
-      "userId": 5,
-      "postId": 8,
-      "id": 19
-    },
-    {
       "userId": 2,
       "postId": 3,
       "id": 22
@@ -245,6 +235,41 @@
       "userId": 4,
       "postId": 8,
       "id": 29
+    },
+    {
+      "userId": 1,
+      "postId": 3,
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "postId": 7,
+      "id": 31
+    },
+    {
+      "userId": 1,
+      "postId": 8,
+      "id": 32
+    },
+    {
+      "userId": 1,
+      "postId": 2,
+      "id": 33
+    },
+    {
+      "userId": 1,
+      "postId": 1,
+      "id": 34
+    },
+    {
+      "userId": 5,
+      "postId": 3,
+      "id": 35
+    },
+    {
+      "userId": 5,
+      "postId": 6,
+      "id": 36
     }
   ]
 }
